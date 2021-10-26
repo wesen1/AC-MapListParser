@@ -1,0 +1,6 @@
+{
+    "require": {
+        "paquettg/php-html-parser": "^1.7",
+        "lezhnev74/simple-downloader": "^1.0"
+    }
+}
